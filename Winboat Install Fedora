@@ -6,6 +6,9 @@ sudo systemctl enable --now docker
 sudo docker run hello-world
 sudo usermod -aG docker $USER
 sudo dnf install freerdp
+Download the latest winboat and make sure to select the rpm version from here:
+https://github.com/TibixDev/winboat
+Open it with your software manager by double clicking the downloaded file and install it
 and reboot before launching winboat after reboot launch winboat and complete setup
 
 If you need to see the video here is the Link:
