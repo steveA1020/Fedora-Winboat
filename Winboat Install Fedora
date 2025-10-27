@@ -8,4 +8,7 @@ sudo usermod -aG docker $USER
 sudo dnf install freerdp
 and reboot before launching winboat after reboot launch winboat and complete setup
 
+If you need to see the video here is the Link:
+https://youtu.be/gpUAhPhmlvA
+
 Enjoy
